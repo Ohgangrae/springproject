@@ -13,15 +13,15 @@ Buskers 스프링 프로젝트 By 일조가일냈조
 헤더, 푸터<br>
 1. 'Yes24티켓' 헤더, 푸터를 벤치마킹하여 제작하였습니다.<br>
 2. Thymeleaf를 이용하여 모든페이지에  연결하였습니다.<br>
-
+<br>
 메인 페이지<br>
 1. 'Yes24티켓' 메인페이지를 벤치마킹하여 제작하였습니다.<br>
-<img src="https://user-images.githubusercontent.com/98381603/182021541-a1ddc863-a8fe-4adb-b687-9a556b0954e5.gif" width="50%">
-
+<img src="https://user-images.githubusercontent.com/98381603/182021541-a1ddc863-a8fe-4adb-b687-9a556b0954e5.gif" width="100%">
+<br>
 모집공고 페이지<br>
 1. 
 gif
-
+<br>
 모집공고 상세보기 페이지<br>
 
 
